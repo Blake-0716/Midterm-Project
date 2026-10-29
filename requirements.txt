@@ -1,3 +1,7 @@
 gradio
 openai
+<<<<<<< HEAD
 python-dotenv
+=======
+python-dotenv
+>>>>>>> 0c0cb274c9c12ea0da226e452a693b5846758532
